@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFF09BF6-9F2A-4046-A841-6D31B685D1D1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QPChatNoUse</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF6DBE86-A7E5-46D2-B05A-1F512429AE99</key>
+		<string>https://github.com/Qpai/QPChatNoUse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QPChatNoUse/QPChatNoUse.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF6DBE86-A7E5-46D2-B05A-1F512429AE99</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Qpai/QPChatNoUse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF6DBE86-A7E5-46D2-B05A-1F512429AE99</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF6DBE86-A7E5-46D2-B05A-1F512429AE99</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QPChatNoUse</string>
+		</dict>
+	</array>
+</dict>
+</plist>

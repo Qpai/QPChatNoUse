@@ -1,0 +1,357 @@
+TQPChatNoUse
+v6
+r1
+cCheck dependencies
+cProcessPCH /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.pch QPChatNoUse/QPChatNoUse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse normal i386
+cCompileAssetCatalog /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Images.xcassets
+cCompileStoryboard /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Base.lproj/Main.storyboard
+cCopyStringsFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj/InfoPlist.strings QPChatNoUse/en.lproj/InfoPlist.strings
+cProcessInfoPlistFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Info.plist /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist
+cGenerateDSYMFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse
+cTouch /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000527843C500000000000003B5
+t1383613381
+s949
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000527843D100000000000001A0
+t1383613393
+s416
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000527843D50000000000445870
+t1383613397
+s4479088
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000527843D8000000000088C680
+t1383613400
+s8963712
+
+N/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000527843DD0000000001DB9910
+t1383613405
+s31168784
+
+N/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000525638CE0000000000000AC9
+t1381382350
+s2761
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.pch
+t1401374752
+s109996
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o
+t1401374752
+s65540
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatNoUse.LinkFileList
+c000000005387481E0000000000000239
+t1401374750
+s569
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o
+t1401374752
+s41164
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o
+t1401374752
+s3700
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/assetcatalog_dependencies.txt
+t1401374754
+s498
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/assetcatalog_generated_info.plist
+t1401374754
+s525
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app
+t1401374754
+s306
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM
+t2
+s0
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Base.lproj/Main.storyboardc
+t1401374753
+s170
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Info.plist
+t1401374754
+s987
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/PkgInfo
+t1401374754
+s8
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse
+t1401374752
+s17396
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj/InfoPlist.strings
+t1401374752
+s42
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Base.lproj/Main.storyboard
+c00000000538748060000000000000AB9
+t1401374726
+s2745
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Images.xcassets
+c00000000538747B50000000000000088
+t1401374645
+s136
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m
+c00000000538747B500000000000007E4
+t1401374645
+s2020
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist
+c0000000053874818000000000000048D
+t1401374744
+s1165
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Prefix.pch
+c00000000538747B50000000000000158
+t1401374645
+s344
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m
+c00000000538747B50000000000000200
+t1401374645
+s512
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/en.lproj/InfoPlist.strings
+c00000000538747B5000000000000002D
+t1401374645
+s45
+
+N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m
+c00000000538747B50000000000000158
+t1401374645
+s344
+
+CBuild AST from /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m
+r0
+
+CBuild AST from /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m
+r0
+
+CBuild AST from /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2159f49e7f37b941^c591ff9e7f37b941^---0#1#1#--18"Check dependencies36"CB2F3559-3D4D-4EAA-A474-81D0CAB07D54-
+
+CCompileAssetCatalog /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Images.xcassets
+s423067552.861971
+e423067554.267286
+r1
+xCompileAssetCatalog
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/LaunchImage-700-568h@2x.png
+o/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Assets.car
+o/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app QPChatNoUse/Images.xcassets124"CompileAssetCatalog DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app QPChatNoUse/Images.xcassets0dc2dca07f37b941^4c6e44a27f37b941^-526"/* com.apple.actool.compilation-results *//Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/LaunchImage-700-568h@2x.png/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Assets.car/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Images.xcassets/0000000000000000^1293"CompileAssetCatalog DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app QPChatNoUse/Images.xcassets    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/assetcatalog_dependencies.txt --output-partial-info-plist /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app /Work/教程/源码/GitHub/QPChatNoUse/36"96F997EC-4544-4472-BC61-AE5529897FC5-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423067552.434650
+e423067552.614338
+r1
+xCompileC
+xDerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m250"CompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o QPChatNoUse/QPChatAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb66a6fa07f37b941^74459da07f37b941^---0#0#1#-19%DVTDocumentLocation2@122"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m0000000000000000^4174"CompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o QPChatNoUse/QPChatAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-generated-files.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-own-target-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-all-target-headers.hmap -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-project-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources/i386 -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources -F/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator -include /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch -MMD -MT dependencies -MF /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.d --serialize-diagnostics /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.dia -c /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m -o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUs36"AD8EBB7A-CA97-4563-AC03-69D6BEB9983D-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423067552.434636
+e423067552.602504
+r1
+xCompileC
+xDerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m256"CompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o QPChatNoUse/QPChatViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercc616fa07f37b941^e63d9aa07f37b941^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m0000000000000000^4192"CompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o QPChatNoUse/QPChatViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-generated-files.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-own-target-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-all-target-headers.hmap -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-project-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources/i386 -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources -F/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator -include /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch -MMD -MT dependencies -MF /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.d --serialize-diagnostics /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.dia -c /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m -o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/B36"326E47D0-D2BC-41AE-ABA5-8DA7497711B3-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423067552.434650
+e423067552.600677
+r1
+xCompileC
+xDerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m224"CompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o QPChatNoUse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler836a6fa07f37b941^7ec699a07f37b941^---0#0#1#-19%DVTDocumentLocation2@109"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m0000000000000000^4096"CompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o QPChatNoUse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-generated-files.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-own-target-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-all-target-headers.hmap -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-project-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources/i386 -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources -F/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator -include /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch -MMD -MT dependencies -MF /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.d --serialize-diagnostics /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.dia -c /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m -o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedDa36"D6CDE391-FCA9-45CE-AB3C-7922C7D1AAF5-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CCompileStoryboard /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Base.lproj/Main.storyboard
+s423067552.861971
+e423067553.661225
+r1
+xCompileStoryboard
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard QPChatNoUse/Base.lproj/Main.storyboard56"CompileStoryboard QPChatNoUse/Base.lproj/Main.storyboard2fc2dca07f37b941^9146a9a17f37b941^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Base.lproj/Main.storyboard0000000000000000^922"CompileStoryboard QPChatNoUse/Base.lproj/Main.storyboard    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH "/Applications/Xcode 2.app/Contents/Developer/usr/bin/.."    /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Base.lproj/Main.storyboardc /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Base.lproj/Main.storyboard36"A8D5859A-C097-42A5-AEDA-4BEB096EB58D-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CCopyStringsFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj/InfoPlist.strings QPChatNoUse/en.lproj/InfoPlist.strings
+s423067552.861993
+e423067552.865838
+r1
+xCopyStringsFile
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj/InfoPlist.strings
+xQPChatNoUse/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy QPChatNoUse/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj/InfoPlist.strings QPChatNoUse/en.lproj/InfoPlist.stringsdfc0dca07f37b941^f4a7dda07f37b941^---0#0#1#-19%DVTDocumentLocation2@129"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/en.lproj/InfoPlist.strings0000000000000000^685"CopyStringsFile DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj/InfoPlist.strings QPChatNoUse/en.lproj/InfoPlist.strings    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj -- QPChatNoUse/en.lproj/InfoPlist.strings36"FEA5DA36-CA20-4C4B-BFD8-2921FE6778EB-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CGenerateDSYMFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse
+s423067554.287878
+e423067554.325796
+r1
+xGenerateDSYMFile
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Generate /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM187"GenerateDSYMFile DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUsea0c249a27f37b941^066853a27f37b941^---0#0#1#-19%DVTDocumentLocation2@172"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM00386c77deffdf42^824"GenerateDSYMFile DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse -o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM36"E376856E-5492-4895-8B83-3E750949AB82-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CLd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse normal i386
+s423067552.623226
+e423067552.853125
+r1
+xLd
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse
+xnormal
+xi386
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatNoUse.LinkFileList
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libdnsinfo.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse103"Ld DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse normal i38651a09fa07f37b941^1b68daa07f37b941^---0#0#1#--1607"Ld DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse normal i386    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator -F/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator -filelist /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatNoUse.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatNoUse_dependency_info.dat -o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/De36"E91314AB-05DB-407D-8939-77FEE0175B71-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CProcessInfoPlistFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Info.plist /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist
+s423067554.275930
+e423067554.279465
+r1
+xProcessInfoPlistFile
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Info.plist
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Process /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist143"ProcessInfoPlistFile DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Info.plist QPChatNoUse/QPChatNoUse-Info.plistb6bc46a27f37b941^df8b47a27f37b941^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist0000000000000000^1038"ProcessInfoPlistFile DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Info.plist QPChatNoUse/QPChatNoUse-Info.plist    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist -genpkginfo /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/assetcatalog_generated_info.plist -o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iph36"DB69134E-4FAF-43EE-A3A7-86544AF714BB-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CProcessPCH /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.pch QPChatNoUse/QPChatNoUse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s423067551.002070
+e423067552.426114
+r1
+xProcessPCH
+x/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.pch
+xQPChatNoUse/QPChatNoUse-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile QPChatNoUse/QPChatNoUse-Prefix.pch251"ProcessPCH DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.pch QPChatNoUse/QPChatNoUse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera8a6009f7f37b941^be156da07f37b941^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Work/%E6%95%99%E7%A8%8B/%E6%BA%90%E7%A0%81/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Prefix.pch0000000000000000^3983"ProcessPCH DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.pch QPChatNoUse/QPChatNoUse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode 2.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode\ 2.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-generated-files.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-own-target-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-all-target-headers.hmap -iquote /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/QPChatNoUse-project-headers.hmap -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode\ 2.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources/i386 -I/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/DerivedSources -F/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.dia -MMD -MT dependencies -MF /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.d -c /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Prefix.pch -o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Bu36"57F59D1D-EAE5-4791-B33D-CD5AFDDFD0DA-
+b06F15151-73CC-4A73-B19B-BF3AE9410B68
+
+CProcessPCH /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Index/PrecompiledHeaders/QPChatNoUse-Prefix-hfbcrseqgumgrcdzawkvdbonscyy_ast/QPChatNoUse-Prefix.pch.pch QPChatNoUse/QPChatNoUse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app
+r0
+
