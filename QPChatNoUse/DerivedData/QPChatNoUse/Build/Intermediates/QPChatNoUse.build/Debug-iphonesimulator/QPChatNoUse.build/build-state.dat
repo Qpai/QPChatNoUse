@@ -4,12 +4,12 @@ r1
 cCheck dependencies
 cProcessPCH /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Intermediates/PrecompiledHeaders/QPChatNoUse-Prefix-cjeqdeybhgsaiyafyifrtzfeqktc/QPChatNoUse-Prefix.pch.pch QPChatNoUse/QPChatNoUse-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/main.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatViewController.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/QPChatNoUse/Build/Intermediates/QPChatNoUse.build/Debug-iphonesimulator/QPChatNoUse.build/Objects-normal/i386/QPChatAppDelegate.o /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse normal i386
+cCpResource QPChatNoUse/resources/QPChatNoUse.png DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse.png
 cCopyStringsFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/en.lproj/InfoPlist.strings QPChatNoUse/en.lproj/InfoPlist.strings
 cCompileAssetCatalog /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Images.xcassets
-cCpResource QPChatNoUse/resources/QPChatNoUse.png DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse.png
 cProcessInfoPlistFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Info.plist /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/QPChatNoUse-Info.plist
 cGenerateDSYMFile /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/QPChatNoUse
 cTouch /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app
@@ -253,7 +253,7 @@ t1401375497
 s340
 
 N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app.dSYM
-t1401375188
+t1401375497
 s102
 
 N/Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app/Base.lproj/Main.storyboardc
@@ -365,6 +365,11 @@ c00000000529C7110000000000000C2A0
 t1385984272
 s49824
 
+N/usr/lib/system/libdyld.dylib
+c00000000520CD62800000000000121D0
+t1376572968
+s74192
+
 N/usr/lib/system/libkeymgr.dylib
 c00000000520CD6280000000000008CE0
 t1376572968
@@ -451,7 +456,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies18cc43898237b941^2ae04a898237b941^---0#1#1#--18"Check dependencies36"6E27F6B4-85D3-4810-A1EB-DE12C403BF32-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesca33df1c503bb941^0ad8e61c503bb941^---0#1#1#--18"Check dependencies36"C0B10B55-6F70-4EBA-A1DD-15CC3A9DA94C-
 
 CCompileAssetCatalog /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/DerivedData/QPChatNoUse/Build/Products/Debug-iphonesimulator/QPChatNoUse.app /Work/教程/源码/GitHub/QPChatNoUse/QPChatNoUse/QPChatNoUse/Images.xcassets
 s423067552.861971
