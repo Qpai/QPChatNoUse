@@ -44,8 +44,8 @@
 		6E39776D19377F3500E5A00F /* QPChatNoUse-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QPChatNoUse-Prefix.pch"; sourceTree = "<group>"; };
 		6E39776E19377F3500E5A00F /* QPChatAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QPChatAppDelegate.h; sourceTree = "<group>"; };
 		6E39776F19377F3500E5A00F /* QPChatAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QPChatAppDelegate.m; sourceTree = "<group>"; };
-		6E39777419377F3500E5A00F /* QPChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = QPChatViewController.h; path = QPChatNoUse/QPChatViewController.h; sourceTree = SOURCE_ROOT; };
-		6E39777519377F3500E5A00F /* QPChatViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = QPChatViewController.m; path = QPChatNoUse/QPChatViewController.m; sourceTree = SOURCE_ROOT; };
+		6E39777419377F3500E5A00F /* QPChatViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = QPChatViewController.h; path = QPChatNoUse/QPChat/QPChatViewController.h; sourceTree = SOURCE_ROOT; };
+		6E39777519377F3500E5A00F /* QPChatViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = QPChatViewController.m; path = QPChatNoUse/QPChat/QPChatViewController.m; sourceTree = SOURCE_ROOT; };
 		6E39777719377F3500E5A00F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6E39777D19377F3500E5A00F /* QPChatNoUseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QPChatNoUseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E39777E19377F3500E5A00F /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -471,6 +471,7 @@
 				6E39779019377F3500E5A00F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6E39779119377F3500E5A00F /* Build configuration list for PBXNativeTarget "QPChatNoUseTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +480,7 @@
 				6E39779319377F3500E5A00F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
